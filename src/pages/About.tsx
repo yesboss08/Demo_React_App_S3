@@ -12,7 +12,7 @@ export default function About() {
         <div style={styles.card}>
           <h3>🚀 Our Mission</h3>
           <p>
-            Make cloud storage fast, secure, and developer-friendly.
+            Make cloud storage fast, secure, and developer-friendly. trusted by brwaling coder
           </p>
         </div>
 
